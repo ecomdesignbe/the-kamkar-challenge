@@ -28,7 +28,7 @@ Le script inclut également les améliorations bonus :
 ---
 
 ## Exécution
-### 1️⃣ Extraction + vérification complète
+### Extraction + vérification complète
 ```bash
 python3 clean_hackerone_domains.py
 python3 clean_hackerone_domains_v2.py (incl. bonus)
