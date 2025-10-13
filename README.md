@@ -7,9 +7,9 @@ After each day the coach will present their solution results. They will **not** 
 
 ## Timeline
 
-| Release Date          | Location  | Challenge                                | Description                                       | Objective                  |
-|:----------------------|:---------:|:----------------------------------------:|:--------------------------------------------------|:--------------------------:|
-| 09/10/2025 (thursday) | Remote    | [Step 1: Web Scraping](./STEP_1.md)      | Scrap the list of programs scopes from HackerOne. | programs.json              |
-| 13/10/2025 (monday)   | Remote    | [Step 2: ████ ████████](./STEP_2.md)     | ███ ███ █████ ███ ███████ █████.                  | ███████.███, █████████.███ |
-| 16/10/2025 (thursday) | Remote    | [Step 3: ████ ███████████](./STEP_3.md)  | ██████ ███ ████ ████ ███ ████████████.            | ████.███                   |
-| 17/10/2025 (friday)   | BeCentral | [Final Step: ██████████████](./STEP_4.md)| █████ ███ ███ █ ██████ █████ ██████.              | ██████.███                 |
+| Release Date          | Location  | Challenge                                | Description                                       | Objective     |
+|:----------------------|:---------:|:----------------------------------------:|:--------------------------------------------------|:-------------:|
+| 09/10/2025 (thursday) | Remote    | [Step 1: Web Scraping](./STEP_1.md)      | Scrap the list of programs scopes from HackerOne. | programs.json |
+| 13/10/2025 (monday)   | Remote    | [Step 2: Data Analysis](./STEP_2.md)     | Fix and clean the targets lists.                  | domains.txt   |
+| 16/10/2025 (thursday) | Remote    | [Step 3: ████ ███████████](./STEP_3.md)  | ██████ ███ ████ ████ ███ ████████████.            | ████.███      |
+| 17/10/2025 (friday)   | BeCentral | [Final Step: ██████████████](./STEP_4.md)| █████ ███ ███ █ ██████ █████ ██████.              | ██████.███    |
