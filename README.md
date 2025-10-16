@@ -11,5 +11,5 @@ After each day the coach will present their solution results. They will **not** 
 |:----------------------|:---------:|:----------------------------------------:|:--------------------------------------------------|:-------------:|
 | 09/10/2025 (thursday) | Remote    | [Step 1: Web Scraping](./STEP_1.md)      | Scrap the list of programs scopes from HackerOne. | programs.json |
 | 13/10/2025 (monday)   | Remote    | [Step 2: Data Analysis](./STEP_2.md)     | Fix and clean the targets lists.                  | domains.txt   |
-| 16/10/2025 (thursday) | Remote    | [Step 3: ████ ███████████](./STEP_3.md)  | ██████ ███ ████ ████ ███ ████████████.            | ████.███      |
+| 16/10/2025 (thursday) | Remote    | [Step 3: Data Eng.](./STEP_3.md)  | Enrich the data with new informations.                   | http(s).txt   |
 | 17/10/2025 (friday)   | BeCentral | [Final Step: ██████████████](./STEP_4.md)| █████ ███ ███ █ ██████ █████ ██████.              | ██████.███    |
